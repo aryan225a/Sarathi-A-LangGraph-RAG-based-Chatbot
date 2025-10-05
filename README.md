@@ -55,6 +55,6 @@ Sarathi uses a graph-based structure to manage the conversation flow. When a que
 
 ### 🔗 Explore the Project on Hugging Face
 
-[**▶️ Try the Live Demo**](https://huggingface.co/spaces/YourUsername/YourSpaceName) | [**📄 View the Source Code**](https://huggingface.co/spaces/YourUsername/YourSpaceName/tree/main)
+[**▶️ Try the Live Demo**](https://huggingface.co/spaces/aryan195a/LangGraph-RAG-Chatbot) | [**📄 View the Source Code**](https://huggingface.co/spaces/aryan195a/LangGraph-RAG-Chatbot/tree/main)
 
 </div>
