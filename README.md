@@ -34,12 +34,12 @@ Sarathi is an AI guide designed to provide contextual knowledge by answering que
 
 | Component         | Technology/Library                                         |
 | ----------------- | ---------------------------------------------------------- |
-| **Orchestration** | [cite_start]`langgraph`, `langchain` [cite: 6]                         |
-| **LLM Backends** | Groq via OpenRouter, Google Gemini               |
-| **Retrieval/RAG** | [cite_start]`llama-index` [cite: 6]                                    |
-| **Embeddings** | [cite_start]`sentence-transformers` [cite: 6]                          |
-| **Frontend** | [cite_start]`streamlit` [cite: 6]                                      |
-| **File Parsing** | [cite_start]`pypdf` [cite: 6]                                          |
+| **Orchestration** | `langgraph`, `langchain`                          |
+| **LLM Backends** | `Grok via OpenRouter`, `Google Gemini`               |
+| **Retrieval/RAG** | `llama-index`                                     |
+| **Embeddings** | `sentence-transformers`                           |
+| **Frontend** | `streamlit`                                      |
+| **File Parsing** | `pypdf`                                          |
 
 ## ⚙️ How It Works
 
