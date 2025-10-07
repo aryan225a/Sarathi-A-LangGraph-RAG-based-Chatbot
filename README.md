@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Live Demo on Hugging Face Spaces](https://img.shields.io/badge/🤗-Live%20Demo%20on%20Hugging%20Face-yellow)](https://huggingface.co/spaces/aryan195a/LangGraph-RAG-Chatbot)
+[![Live Demo on Hugging Face Spaces](https://img.shields.io/badge/🤗-Live%20Demo%20on%20Hugging%20Face-yellow)](https://aryan195a-langgraph-rag-chatbot.hf.space/)
 [![Source Code on Hugging Face](https://img.shields.io/badge/💻-Source%20Code%20on%20Hugging%20Face-blue)](https://huggingface.co/spaces/aryan195a/LangGraph-RAG-Chatbot/tree/main)
 
 </div>
